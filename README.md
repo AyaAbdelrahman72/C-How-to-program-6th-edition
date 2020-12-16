@@ -1,1 +1,1 @@
-# C-How-to-program-6th-edition
+# Clinic Management System
